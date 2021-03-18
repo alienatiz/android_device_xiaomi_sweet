@@ -25,4 +25,4 @@ Display | 1080 x 2400 pixels, 20:9 ratio, 6.67 inches, AMOLED (~395 ppi density)
 ![Xiaomi Redmi Note 10 Pro](https://i01.appmifile.com/webfile/globalimg/products/pc/redmi-note-10-pro/specs-header.png "Xiaomi Redmi Note 10 Pro")
 
 #### Proprietary-files.txt
-All unpinned blobs are extracted from [miui_SWEETGlobal_V12.0.1.0.RKFMIXM_32cbe442d4_11.0.zip](https://bigota.d.miui.com/V12.0.1.0.RKFMIXM/miui_SWEETGlobal_V12.0.1.0.RKFMIXM_32cbe442d4_11.0.zip)
+All unpinned blobs are extracted from [miui_SWEETGlobal_V12.0.6.0.RKFMIXM_d4bf9d26c7_11.0.zip](https://bigota.d.miui.com/V12.0.6.0.RKFMIXM/miui_SWEETGlobal_V12.0.6.0.RKFMIXM_d4bf9d26c7_11.0.zip)
