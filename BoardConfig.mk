@@ -7,12 +7,13 @@
 # Display density
 TARGET_SCREEN_DENSITY := 440
 
+# Inherit from sm6150-common
+-include device/xiaomi/sdm6150-common/BoardConfigCommon.mk
+
 DEVICE_PATH := device/xiaomi/sweet
 
 # Properties
 TARGET_VENDOR_PROP += $(DEVICE_PATH)/vendor.prop
-
-# Assert
 
 # Init
 TARGET_INIT_VENDOR_LIB := libinit_sweet
