@@ -1,9 +1,7 @@
-Copyright (C) 2020 The LineageOS Project
-
-Device configuration for Xiaomi Redmi Note 10 Pro
+Device configuration for Xiaomi Redmi Note 10 Pro/Pro Max
 =========================================
 
-The Xiaomi Redmi Note 10 Pro (codenamed _"sweet / sweetin"_) are mid range smartphones from Xiaomi's sub-brand Redmi.
+The Xiaomi Redmi Note 10 Pro/Pro Max (codenamed _"sweet / sweetin"_) are mid range smartphones from Xiaomi's sub-brand Redmi.
 
 Redmi Note 10 Pro was announced and released in March 2021.
 
